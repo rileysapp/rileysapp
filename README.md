@@ -1,6 +1,6 @@
-## Hi, I'm Riley
+# Hi, I'm Riley
 I am a first-year economics master's student at the University of Tennessee. I am completing an introductory data science course at the 500-level, including creating repositories on GitHub.
-# Tools: Python, pandas, Git, GitHub
+## Tools: Python, pandas, Git, GitHub
 
 <!--
 **rileysapp/rileysapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
